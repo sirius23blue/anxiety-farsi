@@ -23,14 +23,14 @@
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" about that horrible thing happening somewhere?
+s: اون خبر دربارهٔ اون اتفاق وحشتناک در فلانجا رو دیدی؟
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س‌سلام
 
 ```
 publish("act2",["party_hunter",1]);
@@ -38,14 +38,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: God I hate the news. It's all sensationalism and clickbait.
+a: وای خدا خیلی از اخبار بدم می‌آد، همیشه الکی شلوغش می‌کنن و جوگیر بازی در می‌آرن
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: چ... چه مهمونی قشنگی
 
 ```
 publish("act2",["party_hong","next"]);
@@ -53,13 +53,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: True, but they're just following incentives. The *real* problem is people who click the clickbait.
+s: این درست، ولی خب دارن پی مشوق‌ها می‌رن. مشکل اصلی اینه که مردم هم تحت از شلوغ بازی خوششون می‌آد
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: Who would retweet a terrible news story, and make all their friends feel bad?
+s: آخه کی یه خبر مزخرف رو منتشر می‌کنه تا حال بقیه دوست‌هاش هم خراب بشه
 
 ```
 publish("act2",["party_hunter",1]);
@@ -67,7 +67,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: دقیقاً!
 
 (#act2-preamble-end)
 
@@ -78,14 +78,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" going viral?
+s: ولی دیدی چقدر همین خبر پخش شد؟
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س سلام
 
 ```
 publish("act2",["party_hunter",1]);
@@ -93,14 +93,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Yeah, totally fake. Who would fall for that and retweet it?
+a: آره، از صد متری مشخص بود فیکه. کی این رو باور می‌کنه آخه؟ فکر کن برای بقیه هم بفرستیش!
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: چ... چه مهمونی قشنگی
 
 ```
 publish("act2",["party_hong","next"]);
@@ -108,7 +108,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Seriously dude. Like, hello, open up Google and factcheck first?
+s: دقیقاً! اینجوری‌ام که مرد مؤمن یه گوگل بکن، ببین اصلاً راسته؟
 
 ```
 publish("act2",["party_hunter",1]);
@@ -116,7 +116,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: وای دقیقاً 
 
 (#act2-preamble-end)
 
@@ -127,14 +127,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: Like I was saying, the Meme Industrial Complex exploits cats.
+s: همونطور که می‌گفتم، صنعت میم خیلی از گربه‌ها استفاده می‌کنه
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س-سلام
 
 ```
 publish("act2",["party_hunter",1]);
@@ -149,7 +149,7 @@ publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: چ... چه مهمونی قشنگی
 
 ```
 publish("act2",["party_hong","next"]);
@@ -157,13 +157,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Well, I saw someone retweet a GIF of a cat drinking milk yesterday.
+s: راستی دیروز دیدم یکی یه ویدیو از شیر خوردن یه گربه رو ریتوییت کرده بود
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: They can't digest that ^crap^! Who would retweet *animal abuse* like that?
+s: گربه‌ها که نمی‌تونن شیر گاو بخورن! کدوم ^احمقی^ همچین حیوون‌آزاری‌ای رو ریتوییت می‌کنه؟
 
 ```
 publish("act2",["party_hunter",1]);
@@ -171,7 +171,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: وای دقیقاً!
 
 (#act2-preamble-end)
 
@@ -182,14 +182,14 @@ a: Ugh, I know right?
 publish("act2",["dee",1]);
 ```
 
-s: So yeah they never replied back!
+s: خب هیچوقت جواب نداد
 
 ```
 publish("act2",["dee",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س- سلام
 
 ```
 publish("act2",["party_hunter",1]);
@@ -197,14 +197,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Even though you both matched each other on Tinder?
+a: مگه با هم خوب جور نشده بودید؟
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: چ...چه مهمونی قشنگی
 
 ```
 publish("act2",["party_hong","next"]);
@@ -229,7 +229,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! What, did they think I was a *serial killer* or something? So paranoid.
+s: نمی‌دونم راستش، فکر کردن من روانی‌ای چیزی‌ام؟ دیوونه بود یارو
 
 ```
 publish("act2",["party_hunter",1]);
@@ -237,7 +237,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: وای دقیقاً!
 
 (#act2-preamble-end)
 
@@ -249,9 +249,9 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! Maybe they think hookups can't fill the hole in their heart?
+s: منم نمی‌دونم، شاید فکر می‌کنه خوابیدن با بقیه حفرهٔ تو قلبش رو پر نمی‌کنه؟
 
-s: Stop being such a prude! Open your mind, then open your legs!
+s: !اینقدر بی‌جنبه نباش، یه مقدار بالای شکم فکر کن
 
 ```
 publish("act2",["party_hunter",1]);
@@ -259,7 +259,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: وای دقیقاً!
 
 (#act2-preamble-end)
 
@@ -271,7 +271,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! They weren't that hot, but they would have been a nice catch!
+s: نمی‌دونم راستش، اونقدر هم جذاب نبود ولی خب چیز خوبی بود
 
 ```
 publish("act2",["party_hunter",1]);
@@ -279,7 +279,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Gotta Catch 'Em All!™
+a: باید همه‌شون رو بگیرم
 
 (#act2-preamble-end)
 
@@ -300,27 +300,27 @@ publish("hp_show");
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-n: ROUND TWO: *FIGHT!*
+n: دور دوم: *برو تو کارش!*
 
-[Oh no they all hate us!](#act2a_social)
+[وای نه همه از ما بدشون می‌آد!](#act2a_social)
 
-[Were you *ogling* the redhead?](#act2a_perv)
+[زل زده بودی به مو قرمزه؟](#act2a_perv)
 
-[Hey, let's talk about the meaning of life.](#act2a_meaning)
+[بیا راجع به معنای زندگی صحبت کنیم](#act2a_meaning)
 
 # act2a_social
 
 `bb({eyes:"sad"})`
 
-b: We're bringing down the mood of this party by being such a sad lump!
+b: اینقدر لب و لوچه‌مون آویزونه داریم حال جمع رو هم بد می‌کنیم
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: We're killing the good vibes! We're committing first-degree vibe-murder!
+b: خیلی ضدحالیم! انگار قاتل درجهٔ یک خوش گذشتنیم
 
 `bb({eyes:"normal", body:"normal"})`
 
-b: Human, we have to leave *now* before--
+b: انسان، ما باید همین الان بزنیم به چاک قبل از اینکه...
 
 ```
 _.a2_first_danger = 'social';
@@ -333,15 +333,15 @@ _.a2_attack_1 = "alone";
 
 `bb({eyes:"suspect"})`
 
-b: They're more attractive than us, which means if we even *look* at them, then--
+b: طرف خیلی از ما خوشگلتره، یعنی ما حتی اگه چشممون بیفته بهش...
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: WE'RE CREEPS
+b: هَوَلیم!
 
 `bb({body:"normal"})`
 
-b: We're creepy, evil, bad bad bad terrible terrible perv--
+b: ما هول و جهنمی و بد و بد و بد و مزخرف و منحر--
 
 ```
 _.a2_first_danger = 'perv';
@@ -354,31 +354,32 @@ _.a2_attack_1 = "bad";
 
 `bb({body:"one_up", eyes:"normal_r"})`
 
-b: At the end of it all, what can we possibly do that really matters? 
+b: نهایتاً چه کاری می‌تونیم انجام بدیم که واقعاً مهم باشه؟
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribute to humanity? All great works decay the way of Ozymandias. Love? Death will always do it part.
+b: کمک به بشریت؟ عشق؟ مرگ همیشه خرابش می‌کنه
+ All great works decay the way of Ozymandias.
 
 `bb({eyes:"sad_r"})`
 
-b: And how much death there is! *We* will die. *Our loved ones* will die.
+b: و چقدر مرگ زیاده! ما می‌میریم و عزیزانمون هم همینطور
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Heck, the Second Law of Thermodynamics means even our *universe* will die!
+b: بر اساس قانون دوم ترمودینامیک حتی تمام هستی می‌میره
 
 `bb({eyes:"suspect", body:"normal"})`
 
-b: Oh, "death makes us appreciate life"? That's like saying slavery is good because it makes us appreciate freedom!
+b: وقتی می‌گن «مرگ باعث می‌شه قدر زندگی رو بدونی» مثل اینه که بگن اسارت و برده‌داری خوبه چون باعث می‌شه قدر آزادی رو بدونیم
 
 `bb({body:"one_up"})`
 
-b: Oh, "you need to make your own meaning"? That's what cultists and conspiracy theorists do!
+b: «تو باید خودت معنی بسازی» فرقه‌ها و خرافی‌ها هم همین کار رو کردن!
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Life has no meaning, death has no meaning, even *meaning* has no meaning! What is a mortal soul supposed to--
+b: زندگی معنی نداره، مرگ معنی نداره، حتی معنی هم معنی نداره! یک جسم فانی باید چیکار...
 
 ```
 _.a2_first_danger = 'meaning';
@@ -395,7 +396,7 @@ b: ...
 
 `bb({eyes:"suspect"})`
 
-b: Um... can you hear me, human?
+b: انسان، صدام رو داری؟
 
 `bb({eyes:"normal", MOUTH_LOCK:true})`
 
@@ -403,23 +404,23 @@ b: ...
 
 `bb({eyes:"shock", mouth:"small_talk", body:"chest", MOUTH_LOCK:true})`
 
-b: *GASP*
+b: *یا خدا*
 
 `bb({mouth:"small_talk"})`
 
-b: I MUST WARN YOU ABOUT...
+b: باید بهت هشدار بدم راجع به
 
-[*More* of the same danger!](#act2b_louder)
+[همین خطر ولی بیشتر !](#act2b_louder)
 
 {{if _.a2_first_danger=="social"}}
-[A *different* social danger!](#act2b_different_social)
+[یه خطر اجتماعی متفاوت!](#act2b_different_social)
 {{/if}}
 
 {{if _.a2_first_danger=="perv" || _.a2_first_danger=="meaning"}}
-[A *different* moral danger!](#act2b_different_moral)
+[یه خطر بقای دیگه!](#act2b_different_moral)
 {{/if}}
 
-[You're ignoring danger! That's dangerous!](#act2b_ignore)
+[تو داری خطر رو نادیده می‌گیری! این خطرناکه!](#act2b_ignore)
 
 # act2b_louder
 
@@ -441,13 +442,13 @@ b: I MUST WARN YOU ABOUT...
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: EMOTIONS ARE CONTAGIOUS! SO IF YOU DON'T LEAVE YOU'LL INFECT EVERYONE WITH YOUR MENTAL ILLNESS! 
+b: احساسات مسری‌ان! اگه نری همه رو با این بیماری روانیت خل می‌کنی 
 
-b: You'll create a deadly outbreak of SAD LUMP SYNDROME
+b: به همه سندرم لب و لوچهٔ آویزون می‌دی!
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: We need to get out of here and quarantine ourselves forever in a small room with Netflix and food delivery!
+b: باید از اینجا بزنیم بیرون و خودمون رو تا ابد توی یه اتاق زندانی کنیم و فقط فیلم ببینیم
 
 ```
 _.a2_second_danger = 'netflix';
@@ -461,7 +462,7 @@ _.a2_hoodie_callback = "a quarantine";
 
 `bb({eyes:"suspect", body:"two_up", mouth:"normal"})`
 
-b: DON'T BE A CREEP. IT'S AGAINST THE LAW!
+b: اینقدر چشم‌چرون نباش! برخلاف قوانینه!
 
 `bb({eyes:"judge", body:"judge_1", mouth:"normal"})`
 
@@ -486,11 +487,11 @@ sfx("gravel");
 
 (...501)
 
-b: Creep Law, Section 74.5: (1) Any Person who checks out (a) those muscular shoulders (b) that bubble booty (2) shall be hereby known as
+b: قوانین چشم‌چرون بودن بند ۱۵ تبصرهٔ ۴ هر فردی که به بازوهای عضلانی فرد دیگر بیشتر از ده ثانیه نگاه کند قانوناً با عنوان
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: "A BIG DISGUSTING TRASH PERVERT"
+b: "یه آشغال منحرف حال به هم زن" شناخته می‌شود 
 
 ```
 _.a2_second_danger = 'law';
@@ -504,23 +505,23 @@ _.a2_hoodie_callback = "the law";
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: Actually, even if you find a noble purpose in life, you can *still* mess everything up!
+b: در واقع حتی اگر یه هدف خوب هم پیدا کنی باز می‌تونی گند بزنی به همه چی
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: Alfred Nobel wanted world peace and for cultures to understand each other. So he decided to make travel easier.
+b:  آلفرد نوبل می‌خواست جهان به صلح برسه و فرهنگ‌ها همدیگه رو بشناسن بخاطر همین تصمیم گرفت مسافرت رو آسون‌تر بکنه
 
 `bb({eyes:"normal_r"})`
 
-b: So he needed a way to cheaply create train tunnels. So he invented a new material called "dynamite"...
+b: و به یک راه ارزون برای ساخت تونل نیاز داشت و ماده‌ای رو اختراع کرد به نام دینامیت
 
 `bb({body:"one_up", eyes:"normal"})`
 
-b: which was used in World War I to KILL MILLIONS OF PEOPLE
+b: که در جنگ جهانی اول میلیون‌ها آدم رو کشت!
 
 `bb({body:"two_up", eyes:"shock"})`
 
-b: IT'S THE BUTTERFLY EFFECT, HUMAN! HOW MANY PEOPLE ARE YOU ACCIDENTALLY KILLING RIGHT NOW
+b: اسمش اثر پروانه‌ایه انسان! همین الان داری سهواً چندتا آدم رو می‌کشی؟
 
 ```
 _.a2_second_danger = 'butterfly';
@@ -536,19 +537,19 @@ _.a2_hoodie_callback = "World War I";
 
 `bb({eyes:"normal_r", body:"point", mouth:"normal"})`
 
-b: Actually, you know what's worse than no-one liking you? *Everyone* liking you.
+b: می‌دونی چی بدتر از اینه که هیچکس دوستت نداشته باشه؟ همه دوستت داشته باشن
 
 `bb({body:"one_up", eyes:"suspect", mouth:"normal"})`
 
-b: That is, becoming one of *these* pleasure-chasing party animals.
+b: این یعنی تبدیل شدن به یکی از این افراد تشنهٔ محبت توی مهمونی‌ها
 
 `bb({body:"normal", mouth:"small"})`
 
-b: A shallow life with shallow friends who only know the shallow you!
+b: یه زندگی سطحی با دوستان سطحی که فقط شخصیت سطحیت رو دیدن
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: Human, we need to run away from these pleasure-zombies before they turn us into one of them!
+b: ما باید قبل از اینکه به یکی از این تشنه‌های توجه تبدیل بشیم ازشون فرار کنیم 
 
 ```
 _.a2_second_danger = 'zombies';
