@@ -23,7 +23,7 @@
 publish("act2",["dee",3]);
 ```
 
-s: اون خبر دربارهٔ اون اتفاق وحشتناک در فلانجا رو دیدی؟
+s: اون خبر دربارهٔ اون اتفاق وحشتناک در فلان جا رو دیدی؟
 
 ```
 publish("act2",["dee",2]);
@@ -302,7 +302,7 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 
 n: دور دوم: *برو تو کارش!*
 
-[وای نه همه از ما بدشون می‌آد!](#act2a_social)
+[نکنه همه از ما بدشون می‌آد!](#act2a_social)
 
 [زل زده بودی به مو قرمزه؟](#act2a_perv)
 
@@ -341,7 +341,7 @@ b: هَوَلیم!
 
 `bb({body:"normal"})`
 
-b: ما هول و جهنمی و بد و بد و بد و مزخرف و منحر--
+b: ما هول و بی‌ادب و بد و بد و بد و مزخرف و منحر--
 
 ```
 _.a2_first_danger = 'perv';
@@ -358,8 +358,7 @@ b: نهایتاً چه کاری می‌تونیم انجام بدیم که وا�
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: کمک به بشریت؟ عشق؟ مرگ همیشه خرابش می‌کنه
- All great works decay the way of Ozymandias.
+b: کمک به بشریت؟ آب در هاون کوبیدنه. عشق؟ مرگ همیشه خرابش می‌کنه
 
 `bb({eyes:"sad_r"})`
 
@@ -448,7 +447,7 @@ b: به همه سندرم لب و لوچهٔ آویزون می‌دی!
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: باید از اینجا بزنیم بیرون و خودمون رو تا ابد توی یه اتاق زندانی کنیم و فقط فیلم ببینیم
+b: باید از اینجا بزنیم بیرون و خودمون رو تا ابد توی یه اتاق زندانی کنیم و فقط فیلم ببینیم و غذای آماده بخوریم
 
 ```
 _.a2_second_danger = 'netflix';
@@ -462,7 +461,7 @@ _.a2_hoodie_callback = "a quarantine";
 
 `bb({eyes:"suspect", body:"two_up", mouth:"normal"})`
 
-b: اینقدر چشم‌چرون نباش! برخلاف قوانینه!
+b: اینقدر چشم‌چرون نباش! حرومه!
 
 `bb({eyes:"judge", body:"judge_1", mouth:"normal"})`
 
@@ -549,7 +548,7 @@ b: یه زندگی سطحی با دوستان سطحی که فقط شخصیت س
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: ما باید قبل از اینکه به یکی از این تشنه‌های توجه تبدیل بشیم ازشون فرار کنیم 
+b: ما باید قبل از اینکه به یکی از این تشنه‌های محبت تبدیل بشیم ازشون فرار کنیم 
 
 ```
 _.a2_second_danger = 'zombies';
@@ -593,15 +592,15 @@ _.a2_hoodie_callback = "Hitler";
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: You think you're safe just because you took the batteries out of the carbon monoxide detector?
+b: الان که باطری های سنسور نشت گاز رو در میکنی همه چی حله؟
 
 `bb({eyes:"suspect_r"})`
 
-b: You won't even smell the poison! You'll just get sleepy and then you'll--
+b: اگر نشتی داشته باشه متوجه گاز نمیشی و بعدش گیج میشی و خوابت میبره و بعدش
 
 `bb({body:"scream_c_1"})`
 
-b: DIEEEEEEEEEEEEEEEEEE
+b: سَقَط میشییی
 
 ```
 _.a2_second_danger = 'ignore';
@@ -622,11 +621,11 @@ b: ...
 
 `bb({eyes:"happy", mouth:"smile", body:"chest"})`
 
-b: Oh thank goodness human, I think you can hear me again!
+b: خب الحمدالله انسان. یه لحظه فکر کردم کر شدی
 
 `bb({eyes:"closed", body:"point"})`
 
-b: I SHALL WARN YOU ABOUT...
+b: باید بهت هشدار بدم راجع به...
 
 {{if _.a2_first_choice=="louder"}}
 [*Even more* of the same danger!](#act2c_louder)
@@ -676,15 +675,16 @@ b: I SHALL WARN YOU ABOUT...
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
-b: Actually, Netflix & food delivery isn't quarantined enough! We'd still infect the delivery person!
+b: نه وایسا. به نظرم حتی این هم کفایت نمیکنه ما باز گند میزنیم به حال اونی که غذا رو میآره
 
 `bb({body:"one_up", mouth:"small"})`
 
-b: We need to move to the Canadian Yukon territories, and have our food delivered by drone!
+b: باید بریم پشت کوه زندگی کنیم و با پهپاد غذا بگیریم
 
 `bb({body:"two_up", mouth:"normal"})`
 
-b: And then they'd have to sterilize the drone to rid it of our SAD LUMP GERMS
+b: و بعدش هم باید پهپاد رو ضدعفونی کنیم تا از شر اثر انگشت های محزون ما خلاص بشن
+And then they'd have to sterilize the drone to rid it of our SAD LUMP GERMS
 
 `_.a2_attack_3 = "alone";`
 
@@ -717,14 +717,13 @@ sfx("gravel");
 
 (...501)
 
-b: The BIG DISGUSTING TRASH PERVERT shall be sentenced to 72 hours in one of those medieval public-humiliation devices
+b: این منحرف بزرگ آشغال باید 72 ساعت توی میدون شهر به صورت عمومی تحقیر بشه
 
-b: unless they're secretly *into* that sort of thing
+b: مگر اینکه یواشکی از این کثافت کاری ها دوست دار
 
 `bb({body:"scream_a_1"})`
 
-b: because they're a BIG DISGUSTING TRASH PERVERT
-
+b: چون یه منحرف آشغاله!
 `_.a2_attack_3 = "bad";`
 
 `_.a2_hoodie_callback = "the law";`
@@ -735,19 +734,21 @@ b: because they're a BIG DISGUSTING TRASH PERVERT
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: BUTTERFLY EFFECT! You're using a non-biodegradable plastic cup?
+b: یا خدا! اثر پروانه ای! داری از یه لیوان غیر قابل بازیافت استفاده میکنی!
+BUTTERFLY EFFECT! You're using a non-biodegradable plastic cup?
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: BAM, A LANDFILL LEAKS POISON AND KILLS A KID
+b: به اون بچه ای که خونه شون بغل محل دفن زباله ست و به خاطر آشغال تو می میره فکر نمیکنی؟
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: You're sweating and your heart's pounding?
+b: داری عرق می کنی و قلبت تند تند میزنه؟
+You're sweating and your heart's pounding?
 
 `bb({body:"scream_a_1"})`
 
-b: BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE
+b: پس میخوای از بیمه استفاده کنی و پولش رو تموم کنی و یه عالمه آدم رو بکشی!
 
 `_.a2_attack_3 = "bad";`
 
@@ -759,15 +760,16 @@ b: BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE
 
 `bb({body:"normal", mouth:"small", eyes:"angry"})`
 
-b: These pleasure-zombies will stumble towards you mumbling,
+b: این تشنه های توجه مثل زامبی می آن سمت آدم
+These pleasure-zombies will stumble towards you mumbling,
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
-b: LIIIIIKES. LIIIIIIIIIIKES.
+b: لایککک لایکککک
 
 `bb({body:"scream_a_1"})`
 
-b: Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS THOT!
+b: و بعد گازت میگیرن و تو رو هم تبدیل به یه آدم بی فکر و نادون می کنن
 
 `_.a2_attack_3 = "bad";`
 
